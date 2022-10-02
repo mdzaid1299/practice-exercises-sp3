@@ -33,10 +33,12 @@ h6{
 #foot2{
     display: inline;
     float: right;
+ 
     margin-right: 20px;
 }
 #icon2{
-    margin-right: 20px;
+    margin-right: 10px;
+    margin-left: 50px;
 }
 #foot1 a{
     text-decoration: none;
