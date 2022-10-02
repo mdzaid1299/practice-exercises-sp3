@@ -1,1 +1,49 @@
 /* Write CSS code here */
+/* Write CSS code here */
+.body{
+    height: fit-content;
+    width: 400px;
+    background-color: rgb(233, 240, 246);
+    margin-top: 150px;
+    margin-left:450px;
+}
+
+#icon1{
+    font-size: 80px;
+    float: left;
+}
+#heading1{
+    display: inline;
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+h6{
+    margin-top: 0px;
+    margin-left: 65px;
+    font-size: 15px;
+    padding-left: 10px;
+}
+#foot1{
+    display: inline;
+    color: rgb(177, 125, 145);
+    text-decoration: none;
+}
+#foot2{
+    display: inline;
+    float: right;
+    margin-right: 20px;
+}
+#icon2{
+    margin-right: 20px;
+}
+#foot1 a{
+    text-decoration: none;
+    margin-right: 5px;
+    color: rgb(72, 72, 121);
+    font-weight: bold;
+}
+
+
+
